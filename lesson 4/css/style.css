@@ -1,0 +1,106 @@
+.logo{
+	width: 100px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+@import url("//cdn.web-fonts.ge/fonts/bpg-ingiri-arial/css/bpg-ingiri-arial.min.css");
+.navigation{
+	display:inline-block;
+	
+
+}
+
+.navigation-li{
+	display: inline-block;
+	
+	
+}
+.navigation-a{
+	margin-left: 25px;
+	margin-right: 15px;
+	text-decoration: none;
+	color:blue;
+	font-family: "BPG Ingiri Arial", sans-serif;
+}
+.date{
+	color: #fff;
+	background-color: #3D58A6;
+	display: inline-block;
+	padding: 5px;
+	font-size: 48px
+
+
+}
+section{
+	margin-top: 40px;
+}
+.date2{
+	color:#3D58A6;
+	font-size: 22px;
+	margin-top:6px;
+}
+.lorem{
+	margin-top: 20px;
+}
+.qal{
+	width: 270px;
+	margin-top:20px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.p1{
+	display: inline-block;
+	width: 1200px;
+	margin-left: 10px;
+	font-family: "BPG Ingiri Arial", sans-serif;
+	
+}
+
+.h3{
+	margin-top:10px;
+}
+
+.tel{
+     margin-top: 20px;
+	display: inline-block;
+	width: 270px;
+	vertical-align:middle;
+	
+
+}
+.p2{
+	display: inline-block;
+	width: 1200px;
+	margin-left:10px;
+	font-family: "BPG Ingiri Arial", sans-serif;
+
+}
+ 	
+.hap{
+	margin-top: 20px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.p3{
+	display: inline-block;
+	width: 1200px;
+	margin-left: 20px;
+	font-family: 'ZCOOL KuaiLe', cursive;
+
+}
+.divider{
+	display: inline-block;
+	height: 30px;
+	width: 2px;
+	background-color: #3D58A6
+
+}
+.social{
+	display: inline-block;
+	margin-left: 5px;
+	margin-right:5px;
+}
+.footer{
+	margin-top: 20px;
+}
